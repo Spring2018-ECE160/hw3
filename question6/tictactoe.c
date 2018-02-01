@@ -3,6 +3,7 @@
  * The program uses a specified, not-perfect strategy.
  * The code uses only basic programming concepts.
  * Written by: Carl Sable
+ * Extended by: _____
  */
 
 #include <stdio.h>
