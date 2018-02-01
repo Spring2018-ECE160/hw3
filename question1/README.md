@@ -1,13 +1,4 @@
 ## Question 1
-Write a shell script that does the following:
-1. Create a directory called "hw1_unix".  
-2. Copy the "hw1_unix" directory to another directory called "hw1_unix_copy".  
-3. Create an empty file in "hw1_unix_copy" called "file1.txt".
-4. Copy the file to "hw1_unix" and rename it "file1_copy.txt".
-5. Repeat step 4 except name the file "file1_cpy2.txt".
-6. List out the directories created.
-7. List out the files in the "hw1_unix" directory.
-
-Hint: "../" goes back one directory
+(K&R Exercise 2-3) Write the function htoi(s), which converts a string of hexadecimal digits (including an optional 0x or 0X) into its equivalent integer value. The allowable digits are 0 through 9, a through f, and A through F. Also, write a main function that calls the function with 3 different examples.
 
 Output:
