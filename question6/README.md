@@ -1,7 +1,8 @@
 ## Question 6
 
-Compute and print 15kg to pounds.
+Extend the tic-tac-toe game that we went over in class today with the following additional requirements:
 
-Use 1kg = 2.205lb.
+
+Compile Steps:
 
 Output:
