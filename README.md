@@ -1,7 +1,7 @@
 # ECE160 - HW#3
 
 Due 02/08/18 at 11:59:59PM.  
-Late submissions are subject to a 10% late penalty.
+Late submissions are subject to a 10% late penalty.  
 **NOTE**: Question 6 is for HW#4. You may take a look at it and start thinking about it.
 
 ## Reading
